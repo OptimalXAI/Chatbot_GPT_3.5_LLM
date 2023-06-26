@@ -18,7 +18,7 @@ Goto /Chatbot_GPT_3.5_LLM directory
 
 Open below python file
 ```python
-Python meetup_chatbot.py
+meetup_chatbot.py
 ```
 Add your openai key in below code 
 
