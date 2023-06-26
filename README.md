@@ -16,6 +16,17 @@ pip install -r requirements.txt
 
 Goto /Chatbot_GPT_3.5_LLM directory
 
+Open below python file
+```python
+Python meetup_chatbot.py
+```
+Add your openai key in below code 
+
+```python
+openai.api_key =  "your api key" # Replace with your actual API key
+```
+
+
 Run below python file to productionize GPT 3.5 turbo based Chatbot with flask API
 ```python
 Python meetup_chatbot.py
